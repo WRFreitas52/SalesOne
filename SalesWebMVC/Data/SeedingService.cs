@@ -7,7 +7,7 @@ using SalesWebMVC.Models.Enums;
 
 namespace SalesWebMVC.Data
 {
-    public class SeedingService
+    public class SeedingService 
     {
         private SalesWebMVCContext _context;
 
